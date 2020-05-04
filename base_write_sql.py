@@ -1,3 +1,5 @@
+# Example of reading and writing data from/to a Database in Azure SQL Server 
+
 import config 
 import pyodbc
 
