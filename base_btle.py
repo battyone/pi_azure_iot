@@ -1,3 +1,4 @@
+# Base code to connect to a bluetooth device and read data (Xiaomi Mijia LYWSD03MMC)
 # thanks to https://github.com/JsBergbau/MiTemperature2
 # and http://ianharvey.github.io/bluepy-doc/index.html
 
