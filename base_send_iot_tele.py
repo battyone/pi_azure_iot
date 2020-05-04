@@ -1,3 +1,5 @@
+# Example of sending telemetry to Azure IoT Hub
+
 import os
 import asyncio
 from azure.iot.device.aio import IoTHubDeviceClient
