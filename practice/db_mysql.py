@@ -1,3 +1,4 @@
+# sample code to connect to MySQL -- does not work with SQL Server
 import config
 import mysql.connector
 from mysql.connector import errorcode
