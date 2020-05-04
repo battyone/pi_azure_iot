@@ -1,3 +1,4 @@
+# Test Python in VS Code
 print('hello')
 print('hi')
 import azure.functions as func
